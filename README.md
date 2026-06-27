@@ -62,15 +62,28 @@ Kain Cosmeceuticals Pvt. Ltd.
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
+#  📊  D A T A   A N A L Y S T   P O R T F O L I O 
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 SQL Data Analysis & Query Optimization
+🐍 Python for Data Analysis & Automation
+📈 Power BI, Excel & Interactive Dashboards
+⚙️ ERP (BatchMaster) Implementation & Support
+📑 MIS Reporting & KPI Performance Tracking
+🗂️ Master Data Management & Data Validation
+🔄 ETL, Data Cleaning & Reporting Automation
+📊 Business Intelligence & Data Visualization
+🤝 Cross-functional Collaboration & Process Improvement
+💡 Turning Raw Data into Actionable Business Insights
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 
 
 
-<div align="center">
 
-
-
-</div>
 
 # 🚀 FEATURED PROJECTS
 
@@ -171,7 +184,12 @@ Kain Cosmeceuticals Pvt. Ltd.
 ✓ Crack Data Analyst Role
 
 ✓ Contribute to Open Source Analytics Projects
+
 ```
+## 🐍 Watch My Contributions Get Eaten!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -187,11 +205,3 @@ Kain Cosmeceuticals Pvt. Ltd.
 
 
 
-
-<div align="center">
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,100:1C2541&height=120&section=footer"/>
-
-</div>

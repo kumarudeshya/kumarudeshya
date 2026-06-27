@@ -42,28 +42,8 @@ Results-oriented Data Analyst with strong hands-on project experience in SQL ana
 
 </div>
 
----
 
-```bash
-$ whoami
 
-> Kumar Udeshya
-> Data Analyst | ERP Trainee & MIS Executive
-> Passionate about solving business problems using data.
-> Currently working on ERP implementation,
-> dashboard automation and business intelligence projects.
-
-$ status
-
-> [ ONLINE ] Building analytics dashboards
-> [ ACTIVE ] Exploring SQL & Python
-> [ WORKING ] ERP Data Management
-> [ OPEN ] Data Analyst Opportunities
-```
-
----
-
-# 📊 ABOUT ME
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -71,35 +51,18 @@ $ status
 │      D A T A   A N A L Y S T   P O R T F O L I O         │
 │                                                          │
 │  • SQL Data Analysis & Query Optimization                │
-│  • Interactive Power BI & Excel Dashboards              │
-│  • ERP (BatchMaster) Implementation                     │
-│  • KPI Reporting & Business Intelligence                │
-│  • Data Cleaning, ETL & Automation                      │
-│  • Transforming Raw Data into Actionable Insights       │
+│  • Interactive Power BI & Excel Dashboards               │
+│  • ERP (BatchMaster) Implementation                      │
+│  • KPI Reporting & Business Intelligence                 │
+│  • Data Cleaning, ETL & Automation                       │
+│  • Transforming Raw Data into Actionable Insights      n │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 💻 TECH STACK
 
-<div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| 📈 Analytics | SQL • Python • Pandas • NumPy |
-| 📊 BI Tools | Power BI • Tableau • Excel |
-| 🗄 Database | MySQL • PostgreSQL |
-| 📉 Visualization | Power BI • Tableau • Excel Charts |
-| ⚙ ETL | Power Query • Python |
-| 📚 Statistics | EDA • Hypothesis Testing • A/B Testing |
-| 🏢 ERP | BatchMaster ERP |
-| 🔧 Tools | GitHub • VS Code • Jupyter Notebook |
-
-</div>
-
----
 
 # 🚀 FEATURED PROJECTS
 
@@ -198,11 +161,11 @@ Kain Cosmeceuticals Pvt. Ltd.
 # 🎯 2026 GOALS
 
 ```
+✓ Learn Machine Learning
+
 ✓ Master SQL Optimization
 
 ✓ Build 25+ Data Analytics Projects
-
-✓ Learn Machine Learning
 
 ✓ Become Power BI Expert
 
@@ -227,7 +190,7 @@ Kain Cosmeceuticals Pvt. Ltd.
 
 <div align="center">
 
-### "Without data, you're just another person with an opinion."
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,100:1C2541&height=120&section=footer"/>
 
